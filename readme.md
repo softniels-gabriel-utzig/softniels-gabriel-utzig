@@ -1,6 +1,5 @@
 <div align="center">
-<h1>BEWARE!!!!</h1>
-<h2>DELPHI DEVELOPER</h2>
+<h1>BEWARE!!!! <br/> DELPHI DEVELOPER</h1>
 <table style="border: none;">
     <tr>
         <td><img src="https://cdn.pixabay.com/animation/2023/04/28/18/34/18-34-10-554_512.gif" alt="Radioctive"  height="200" widht="200"></td>
